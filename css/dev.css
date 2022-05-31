@@ -1,0 +1,18 @@
+.smallImg{
+    width: 32px;
+    height: 32px;
+    
+}
+.BrandIconDisplay{
+    width: 80%;
+}
+
+
+.bgImg{
+    background-image: url(../assets/bg90.png);
+    background-size: 25%;
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-attachment:fixed;
+}
+
